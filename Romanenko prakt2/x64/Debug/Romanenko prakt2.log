@@ -1,0 +1,3 @@
+﻿  Romanenko prakt2.cpp
+D:\My project\C++\Romanenko prakt2\Romanenko prakt2\Romanenko prakt2.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Romanenko prakt2.vcxproj -> D:\My project\C++\Romanenko prakt2\x64\Debug\Romanenko prakt2.exe
