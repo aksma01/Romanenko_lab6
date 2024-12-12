@@ -1,1 +1,0 @@
-# Romanenko_lab6
